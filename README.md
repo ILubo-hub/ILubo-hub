@@ -12,7 +12,7 @@ Im developing two apps, one of them is to take a technological leap in school th
 <details>
   <summary>Gm</summary>
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILubo-hub&repo=Gm)](https://github.com/ILubo-hub/Gm)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILubo-hub&repo=GmProject)](https://github.com/ILubo-hub/GmProject.git)
 </details>
 <details>
   <summary>ILubo</summary>
